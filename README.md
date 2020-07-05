@@ -3,5 +3,7 @@
 <ul>
 	<li>Addition Program</li>
 	<li>Subtraction Program</li>
+	<li>Multiplication Program</li>
+	<li>Division Program</li>
 </ul>
 
