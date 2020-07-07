@@ -1,4 +1,2 @@
-x = int(input("Enter First Number \t"))
-y = int(input("Enter Second Number \t"))
-
-print(f"The Result is : {x} + {y} = {x+y}")
+""" Modified code in One Line"""
+print("Required sum is ",sum([x for x in list(map(int,input("Enter a No. : ").split()))]))
